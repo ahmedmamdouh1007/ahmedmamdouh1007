@@ -24,33 +24,28 @@
 <table cellspacing="0" cellpadding="0" style="border:none;">
         <tr>
             <td>
-                <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
+                <a href="https://www.tiktok.com/@ahmedmamdouh1007/video/7426818660028697864"> <img
+                        src="https://www.svgrepo.com/show/452062/microsoft.svg" alt="c"
                         width="40" height="40" /> </a>
             </td>
             <td>
-                <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+                <a href="https://github.com/ahmedmamdouh1007/employees" target="_blank" rel="noreferrer"> <img
+                        src="https://www.svgrepo.com/show/354428/tableau-icon.svg"
                         alt="cplusplus" width="40" height="40" /> </a>
             </td>
             <td>
-                <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+                <a href="https://www.w3schools.com/excel/" target="_blank" rel="noreferrer"> <img
+                        src="https://www.svgrepo.com/show/373589/excel.svg"
                         alt="csharp" width="40" height="40"/> </a>
             </td>
             <td>
-                <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+                <a href="https://www.kaggle.com/code/ahmedm22/crime-data-from-2020-to-present-eda" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                         alt="python" width="40" height="40" /> </a>
             </td>
             <td>
-                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                        alt="mongodb" width="40" height="40" /> </a>
-            </td>
-            <td>
-                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                <a href="https://www.tiktok.com/@ahmedmamdouh1007/video/7420586887443746068" target="_blank" rel="noreferrer"> <img
+                        src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"
                         alt="mysql" width="40" height="40" /> </a>
             </td>
         </tr>
@@ -74,16 +69,6 @@
                         src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40"
                         height="40" /> </a>
             </td>
-            <td>
-                <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" 
-                        alt="matlab" width="40" height="40"/> </a> 
-            </td>
-            <td>
-                <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
-                        src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"
-                        width="40" height="40" /> </a>
-            </td>
         </tr>
  </table>
     
@@ -97,7 +82,7 @@
         <tr>
             <td>
                  <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawfikhammad&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmamdouh1007&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
             </td>
         </tr>
    </table>
@@ -107,4 +92,4 @@
 ## GitHub Profile Trophy 🏆
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawfikhammad&theme=onedark&title=Stars,Followers,Commit,Repositories" alt="tawfikhammad" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmamdouh1007&theme=onedark&title=Stars,Followers,Commit,Repositories" alt="ahmedmamdouh1007" /></a> </p>
