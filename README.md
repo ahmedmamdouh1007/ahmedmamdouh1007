@@ -1,96 +1,74 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, I'm Ahmed!</h1>
-
-<h2 align="center">I'm a Data Analysis & Data Science </h2>
-
-
-- I’m currently learning **Data Science and AI**.
+<div align="center">
   
-- All of my projects are available at [Kaggle account](https://www.kaggle.com/ahmedm22)
+# Hello World! I'm Ahmed! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-- Check my [Resume But it is not ready until now](https://drive.usercontent.google.com/download?id=1emNtEA6SPYEGrzgPw7MPzAxP1B787O8d&export=download&authuser=0&confirm=t&uuid=27adc585-5543-4037-a4a0-0226305f0864&at=AN_67v0czpd5pNlzcTZg-h-v0YLN:1730233620342)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9ECF&center=true&vCenter=true&random=false&width=600&lines=Data+Analyst;Aspiring+Data+Scientist;Always+learning+new+things)](https://git.io/typing-svg)
 
+</div>
 
+## 👨‍💻 About Me
 
-<h3 align="left">📲 Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/ahmed-mamdouh-516979222/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:am0063168@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/ahmedmamdouh1007/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-   <a href="https://www.kaggle.com/ahmedm22"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  
-
-
-## 💻 Languages and Tools:
-
-<table cellspacing="0" cellpadding="0" style="border:none;">
-        <tr>
-            <td>
-                <a href="https://www.tiktok.com/@ahmedmamdouh1007/video/7426818660028697864"> <img
-                        src="https://www.svgrepo.com/show/452062/microsoft.svg" alt="c"
-                        width="40" height="40" /> </a>
-            </td>
-            <td>
-                <a href="https://github.com/ahmedmamdouh1007/employees" target="_blank" rel="noreferrer"> <img
-                        src="https://www.svgrepo.com/show/354428/tableau-icon.svg"
-                        alt="cplusplus" width="40" height="40" /> </a>
-            </td>
-            <td>
-                <a href="https://www.w3schools.com/excel/" target="_blank" rel="noreferrer"> <img
-                        src="https://www.svgrepo.com/show/373589/excel.svg"
-                        alt="csharp" width="40" height="40"/> </a>
-            </td>
-            <td>
-                <a href="https://www.kaggle.com/code/ahmedm22/crime-data-from-2020-to-present-eda" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                        alt="python" width="40" height="40" /> </a>
-            </td>
-            <td>
-                <a href="https://www.tiktok.com/@ahmedmamdouh1007/video/7420586887443746068" target="_blank" rel="noreferrer"> <img
-                        src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"
-                        alt="mysql" width="40" height="40" /> </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-            </td>
-            <td>
-                <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img
-                        src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"
-                        height="40" /> </a>
-            </td>
-            <td>
-                <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img
-                        src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-                        alt="scikit_learn" width="40" height="40" /> </a>
-            </td>
-            <td>
-                <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img
-                        src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40"
-                        height="40" /> </a>
-            </td>
-        </tr>
- </table>
+```python
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Ahmed Mamdouh"
+        self.role = "Data Analyst"
+        self.languages = ["Python", "SQL", "Power BI"]
+        self.learning = ["Data Science", "Machine Learning", "AI"]
+        self.goal = "Transitioning from Data Analysis to Data Science"
     
+    def say_hi(self):
+        print("Thanks for dropping by! I'm currently enhancing my skills in Data Science while working as a Data Analyst.")
 
+me = DataAnalyst()
+me.say_hi()
+```
 
-<br/>
-<br/>
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mamdouh-516979222/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ahmedm22)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:am0063168@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedmamdouh1007/)
 
-<p align="center">
-    <table align="lift">
-        <tr>
-            <td>
-                 <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmamdouh1007&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
-            </td>
-        </tr>
-   </table>
-</p>
+## 🛠️ Tech Stack
 
+### Languages & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Profile Trophy 🏆
-<br/>
+### Data Science & ML Learning:
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmamdouh1007&theme=onedark&title=Stars,Followers,Commit,Repositories" alt="ahmedmamdouh1007" /></a> </p>
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmamdouh1007&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+## 🎯 Current Focus & Projects
+
+- 📊 Working as a Data Analyst using Power BI and SQL & Python
+- 📚 Learning Data Science techniques and Machine Learning
+- 🤖 Exploring AI and advanced analytics
+- 🔍 Check out my data analysis projects on [Kaggle](https://www.kaggle.com/ahmedm22)
+- 🤝 Open to collaborating on Data Analysis and Data Science projects
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedmamdouh1007&theme=tokyonight&column=4&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<div align="center">
+  
+### 💡 "Every data point tells a story, and I'm here to uncover it."
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedmamdouh1007&color=brightgreen&style=flat-square)
+
+</div>
