@@ -30,6 +30,8 @@ me.say_hi()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:am0063168@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedmamdouh1007/)
 
+
+
 ## 🛠️ Tech Stack
 
 ### Languages & Tools:
@@ -44,13 +46,6 @@ me.say_hi()
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=python&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmamdouh1007&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ## 🎯 Current Focus & Projects
 
@@ -59,6 +54,23 @@ me.say_hi()
 - 🤖 Exploring AI and advanced analytics
 - 🔍 Check out my data analysis projects on [Kaggle](https://www.kaggle.com/ahmedm22)
 - 🤝 Open to collaborating on Data Analysis and Data Science projects
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedmamdouh1007&color=blueviolet&style=for-the-badge)
+
+</div>
+
+
+## 📊 إحصائيات GitHub 
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmamdouh1007&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmamdouh1007&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmedmamdouh1007&theme=tokyonight&column=4&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
